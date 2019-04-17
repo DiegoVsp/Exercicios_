@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\Exercicios\Nota\Nota\bin\Debug\Nota.exe.config
+C:\Users\diego\Desktop\Exercicios\Nota\Nota\bin\Debug\Nota.exe
+C:\Users\diego\Desktop\Exercicios\Nota\Nota\bin\Debug\Nota.pdb
+C:\Users\diego\Desktop\Exercicios\Nota\Nota\obj\Debug\Nota.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Exercicios\Nota\Nota\obj\Debug\Nota.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Exercicios\Nota\Nota\obj\Debug\Nota.exe
+C:\Users\diego\Desktop\Exercicios\Nota\Nota\obj\Debug\Nota.pdb
