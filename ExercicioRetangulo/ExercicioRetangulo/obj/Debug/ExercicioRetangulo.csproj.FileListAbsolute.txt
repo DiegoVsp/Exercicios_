@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\Exercicios\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\ExercicioRetangulo.exe.config
+C:\Users\diego\Desktop\Exercicios\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\ExercicioRetangulo.exe
+C:\Users\diego\Desktop\Exercicios\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\ExercicioRetangulo.pdb
+C:\Users\diego\Desktop\Exercicios\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\ExercicioRetangulo.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Exercicios\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\ExercicioRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Exercicios\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\ExercicioRetangulo.exe
+C:\Users\diego\Desktop\Exercicios\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\ExercicioRetangulo.pdb
