@@ -12,7 +12,7 @@ namespace Nota
         {
             AlunoNotas a1 = new AlunoNotas();
 
-            Console.WriteLine("Nome do Aluno: ");
+            Console.Write("Nome do Aluno: ");
             a1.nome = Console.ReadLine();
             Console.WriteLine("Digite as três notas do aluno " + a1.nome);
             a1.nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
